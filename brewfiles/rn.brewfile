@@ -1,0 +1,8 @@
+tap "homebrew/cask-versions"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/bundle"
+
+brew "rbenv"
+brew "watchman"
+cask "zulu11"
