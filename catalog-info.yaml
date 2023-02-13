@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-native-install-env-brew
+  description: Scripts to install react-native environment using homebrew
+  annotations:
+    github.com/project-slug: sendbird/react-native-install-env-brew
+spec:
+  type: library
+  lifecycle: experimental
+  owner: dep-client-platform
+  system: sendbird-uikit
